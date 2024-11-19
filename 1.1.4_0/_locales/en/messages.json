@@ -4,5 +4,14 @@
    },
    "application_title": {
       "message": "Thanos Snap- Having fun with friends"
+   },
+   "application_short_title": {
+      "message": "Thanos Snap"
+   },
+   "enable": {
+      "message": "enable"
+   },
+   "disable": {
+      "message": "disable"
    }
 }
