@@ -1,8 +1,26 @@
 {
    "application_description": {
-      "message": "Made for fun with friends Clicking on the browser will delete a lot of data."
+      "message": "Remove any element that is Mouse clicked."
    },
    "application_title": {
-      "message": "Thanos Snap- Having fun with friends"
+      "message": "Thanos Click - Having fun with friends"
+   },
+   "application_popup_des": {
+      "message": "Clicking on that will delete it. you can use it for fun."
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "removeinclick": {
+      "message": "Remove in Click"
+   },
+   "thanoscursor": {
+      "message": "Thanos Cursor"
+   },
+   "nostylesheet": {
+      "message": "No StyleSheet"
+   },
+   "nostylesheet_des": {
+      "message": "site Open Without Design"
    }
 }

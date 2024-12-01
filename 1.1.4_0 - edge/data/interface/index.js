@@ -2,7 +2,7 @@ var app = {}, API = chrome || browser,$ = (ele) =>{return document.querySelector
 
 app.action = {
   "link": function() {
-  	$("#rate_us") ? $("#rate_us").href = `https://chromewebstore.google.com/detail/${API.runtime.id}` : null;
+  	$("#rate_us") ? $("#rate_us").href = `https://microsoftedge.microsoft.com/addons/detail/${API.runtime.id}` : null;
   },
   "translate": function() {
     return new Promise((resolve) => {
